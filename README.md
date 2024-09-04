@@ -1,15 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TusharBahuguna583.TusharBahuguna583" />
+<br/>
+
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar+Bahuguna!;" />
 </h1>
 
 <h2 align="center">A passionate Full Stack Developer from India</h2>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 
-<br/>
+<br/><br/><br/>
 
 <div align="center">
- 
+
  🔭 I’m currently working on **a Netflix with integration of GPT**
  
  🌱 I’m currently learning **Node.js, Express.js, MongoDB**
@@ -32,8 +36,11 @@
   </a>
 </div>
 
+<br/>
 <hr/>
 
+<br/>
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -49,7 +56,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TusharBahuguna583/TusharBahuguna583/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
@@ -64,5 +71,12 @@
 </div>
 
 <br/><br/>
+
+<hr/>
+
+<h3 align="center">
+<a href="https://git.io/typing-svg">    
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+😊+;" />
+</h3>
 
 <hr/>
