@@ -13,14 +13,12 @@
 <br/><br/><br/>
 
 <div align="center">
-
- 🔭 I’m currently working on **a Netflix with integration of GPT**
  
  🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
 💬 Ask me about **JavaScript, React, Firebase, Tailwind, SQL... or anything [here](https://github.com/TusharBahuguna583/TusharBahuguna583/issues)**
 
-⚡ Fun fact **I also Play Guitar 🎸**
+⚡ Fun fact **I also Play Guitar 🎸 and chess ♟️**
 
  </div>
 
